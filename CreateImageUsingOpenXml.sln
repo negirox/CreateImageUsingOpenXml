@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateImageUsingOpenXml", "CreateImageUsingOpenXml\CreateImageUsingOpenXml.csproj", "{F3AF815E-255F-4898-91DA-F4B835DB0D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteropTest", "InteropTest\InteropTest.csproj", "{5DE15234-2DDA-4798-A99A-DB3B843CE15F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AF815E-255F-4898-91DA-F4B835DB0D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AF815E-255F-4898-91DA-F4B835DB0D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AF815E-255F-4898-91DA-F4B835DB0D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AF815E-255F-4898-91DA-F4B835DB0D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE15234-2DDA-4798-A99A-DB3B843CE15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE15234-2DDA-4798-A99A-DB3B843CE15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE15234-2DDA-4798-A99A-DB3B843CE15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE15234-2DDA-4798-A99A-DB3B843CE15F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2741B653-A8E2-4DD1-BB3A-AA0E5F16DD15}
+	EndGlobalSection
+EndGlobal
